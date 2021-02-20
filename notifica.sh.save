@@ -1,0 +1,2 @@
+
+notify-send --icon="/banana.png" "Terminal rian" "Batatinha"

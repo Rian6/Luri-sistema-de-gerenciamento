@@ -1,0 +1,3 @@
+.\src\Imagens\teste.gif
+.\src\Imagens\teste.gif
+.\src\Imagens\teste.gif
