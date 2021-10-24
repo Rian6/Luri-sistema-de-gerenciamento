@@ -2,7 +2,7 @@
 ## 🍨LURI SISTEMA DE GERENCIAMENTO🍨
 
 <h1 align="center">
-<img src="image1.jpeg" width="400" height="300"></img>
+<img src="image1.png" width="400" height="300"></img>
 </h1>
 
 ### Objetivo
