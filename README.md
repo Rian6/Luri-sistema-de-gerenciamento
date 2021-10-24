@@ -9,7 +9,9 @@
 
 ##### Sistema de gerenciamento com o intuito de ajudar comercios de sorvete.
 
-### Como usar?
+### ⚠️ATENÇÃO⚠️
+
+Programa sujeito a algumas falhas, pois esta descontinuado a muito tempo!
 
 Dependencias:
 
